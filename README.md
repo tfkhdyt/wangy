@@ -19,16 +19,10 @@ Skrip untuk membuat copypasta wangy wangy pada termux<br><br>
 ## Instalasi
 ```Shell
 # cloning source code
-git clone https://github.com/tfkhdyt/wangy.git
-
-# buka folder wangy
-cd wangy
-
-# jalankan installer
-./install.sh
+git clone https://github.com/tfkhdyt/wangy.git && cd wangy && ./install.sh
 
 # ketik wangy lalu nama yang akan dijadikan copypasta
-wangy moa
+wangy yuzu
 ```
 
 ## Informasi lebih lanjut
