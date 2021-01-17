@@ -1,4 +1,5 @@
 # WANGY WANGY GENERATOR - TERMUX
+<img src="https://i.postimg.cc/sXzKhJ82/1610845994-picsay.jpg"/>
 Skrip untuk membuat copypasta wangy wangy pada termux
 <p align=center>
 <img src="https://img.shields.io/badge/Created%20by-tfkhdyt-blue?style=for-the-badge&logo=github"/><br>
