@@ -1,6 +1,6 @@
 # WANGY WANGY GENERATOR - TERMUX
 <img src="https://i.postimg.cc/sXzKhJ82/1610845994-picsay.jpg"/>
-Skrip untuk membuat copypasta wangy wangy pada termux<br>
+Skrip untuk membuat copypasta wangy wangy pada termux<br><br>
 <p align=center>
 <img src="https://img.shields.io/badge/Created%20by-tfkhdyt-blue?style=for-the-badge&logo=github"/><br>
 <a href="Https://facebook.com/tfkhdyt142"><img height="30" src="https://www.pinclipart.com/picdir/big/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png"></a>&nbsp;
